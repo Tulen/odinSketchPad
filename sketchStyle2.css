@@ -1,0 +1,34 @@
+body {
+	font-family: Arial;
+	background-color: beige;
+}
+
+#header, #counter, #container {
+	clear: both;
+	text-align: center;
+}
+
+#pad {
+	height: 800px;
+	width: 800px;
+	margin: 10px auto;
+	line-height:0;
+}
+
+
+.box {
+	border: 1px solid black;
+	display: inline-block;
+}
+
+.row {
+	clear: both;
+}
+
+.black {
+	background-color: black;
+}
+
+.random {
+
+}
