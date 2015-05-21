@@ -26,7 +26,7 @@ $(document).ready(function(){
 	 	$('#counter').html('<p>Grid Size: ' + input + ' x ' + input + '</p>');
 	 	
 	 	$('.box').on('mouseenter', function(event){
-	 		$(this).toggleClass('black');
+	 		$(this).addClass('black');
 	 	});
 	});
 
